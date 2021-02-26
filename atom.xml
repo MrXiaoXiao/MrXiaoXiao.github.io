@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrXiaoXiao.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-26T02:17:03.608Z</updated>
+    <title>一个地震学小站</title>
+    <updated>2021-02-26T02:19:30.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MrXiaoXiao.github.io"/>
     <link rel="self" href="https://MrXiaoXiao.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>科研，要讲武德，要有bear而来，要以和为贵，不要搞，窝里斗</subtitle>
     <logo>https://MrXiaoXiao.github.io/images/avatar.png</logo>
     <icon>https://MrXiaoXiao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 一个地震学小站</rights>
     <entry>
         <title type="html"><![CDATA[BlogTest]]></title>
         <id>https://MrXiaoXiao.github.io/post/blogtest/</id>
