@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrXiaoXiao.github.io</id>
     <title>一个地震学小站</title>
-    <updated>2021-05-06T13:49:15.152Z</updated>
+    <updated>2021-06-12T08:00:22.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MrXiaoXiao.github.io"/>
     <link rel="self" href="https://MrXiaoXiao.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://MrXiaoXiao.github.io/images/avatar.png</logo>
     <icon>https://MrXiaoXiao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个地震学小站</rights>
+    <entry>
+        <title type="html"><![CDATA[6月了额]]></title>
+        <id>https://MrXiaoXiao.github.io/post/6-yue-liao-e/</id>
+        <link href="https://MrXiaoXiao.github.io/post/6-yue-liao-e/">
+        </link>
+        <updated>2021-06-12T07:59:46.000Z</updated>
+        <content type="html"><![CDATA[<p>把手头的事情忙完，争取月底开始更新？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五一回来依然没有更新]]></title>
         <id>https://MrXiaoXiao.github.io/post/wu-yi-hui-lai-yi-ran-mei-you-geng-xin/</id>
