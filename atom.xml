@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrXiaoXiao.github.io</id>
     <title>一个地震学小站</title>
-    <updated>2021-11-10T06:11:42.807Z</updated>
+    <updated>2021-12-01T14:10:33.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MrXiaoXiao.github.io"/>
     <link rel="self" href="https://MrXiaoXiao.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://MrXiaoXiao.github.io/images/avatar.png</logo>
     <icon>https://MrXiaoXiao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个地震学小站</rights>
+    <entry>
+        <title type="html"><![CDATA[我来问道无余说]]></title>
+        <id>https://MrXiaoXiao.github.io/post/wo-lai-wen-dao-wu-yu-shuo/</id>
+        <link href="https://MrXiaoXiao.github.io/post/wo-lai-wen-dao-wu-yu-shuo/">
+        </link>
+        <updated>2021-12-01T14:09:53.000Z</updated>
+        <content type="html"><![CDATA[<p>云在青天水在瓶</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is life always that hard,]]></title>
         <id>https://MrXiaoXiao.github.io/post/is-life-always-that-hard/</id>
@@ -91,16 +100,6 @@ Eating my wings to make me tame.</p>
         </link>
         <updated>2021-03-24T09:14:14.000Z</updated>
         <content type="html"><![CDATA[<p>还是要按照自己的节奏来</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大意了]]></title>
-        <id>https://MrXiaoXiao.github.io/post/da-yi-liao/</id>
-        <link href="https://MrXiaoXiao.github.io/post/da-yi-liao/">
-        </link>
-        <updated>2021-03-21T13:45:08.000Z</updated>
-        <content type="html"><![CDATA[<p>大意了，被科研给右眼蹭了一下，但是没关系啊，两分多钟，两分多钟以后就好了，下周一定更新（3.28号）。<br>
-下周更新一下地震定位相关的内容。</p>
 ]]></content>
     </entry>
 </feed>
